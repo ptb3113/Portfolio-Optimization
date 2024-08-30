@@ -1,5 +1,3 @@
-# Portfolio-Optimization
-
 # Portfolio Optimization Project
 
 ## 🌟 Overview
